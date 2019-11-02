@@ -11,4 +11,4 @@ The intermediate step is to go pairwise through the input elements and place the
 
 This is not exactly totally new as I used somewhat similar ideas in a neural network article for Servo magazine 15 or 20 years ago.
 Don't blame me for the slow uptake of such ideas, there has been nothing but utter and total resistance. Even though there are serious gains to be had.
-Now that big money is involved ($billions) maybe people will try better, though I wouldn't actually be too sure about it. Also nondisclosing players could be decades ahead if they had paid early attention.
+Now that big money is involved ($billions) maybe people will try better, though I wouldn't actually be too sure about it. Also nondisclosing players could be decades ahead if they had paid early attention or had discovered such things by themselves.
